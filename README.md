@@ -1,6 +1,6 @@
 # Java-Swing
 GUI based Java Swing
-Đồ án môn học OOP Java : Xây dựng ứng dụng quản lý khách sạn (Hotel Management Application) sử dụng java Swing
+Đồ án môn học OOP Java : Xây dựng ứng dụng quản lý khách sạn (Hotel Management Application) sử dụng java Swing , cơ sở dữ liệu mysql.
 
 <img width="493" alt="Screenshot 2024-01-28 171038" src="https://github.com/hoangtubongdem153/Java-Swing/assets/102464694/ae5431b7-66ac-45b7-a19a-c460e7ce457d">
 
